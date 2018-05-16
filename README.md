@@ -20,7 +20,38 @@ Make logic easy to reuse. Reduce mental burden in writing.
 
 ## Conventions
 
-[index of conventions goes here]
+##### Syntax
+
+- Use Lodgify ESLint config
+- Use arrow functions by default
+
+##### Modules
+
+- Use modules to organise application logic
+- No default exports
+- No logic in `index.js` files
+- Use `constants.js` file for defining constants
+- Use `.spec.js` extension for unit tests
+- Use generic file names
+
+##### React
+
+- No jsx extension
+- Use `component.js` file for defining markup
+- Use stateless components by default
+- Use generic component names
+- Use `container.js` file for wrapping components
+
+##### Redux
+
+- Use ducks for state management logic
+
+##### Comments
+
+- No JSDoc tags or description for for boilerplate entities
+- No JSDoc tags or description for obvious entities
+- No JSDoc description for clear functions
+- Use JSDoc tags and description for opaque functions
 
 ## Be warned
 

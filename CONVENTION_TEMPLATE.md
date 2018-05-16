@@ -1,4 +1,4 @@
-# [Convention title]
+# [Convention title. Start with 'Use' or 'No']
 
 [Convention summary. Be concise and unambiguous]
 
