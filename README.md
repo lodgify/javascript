@@ -6,15 +6,15 @@ An **inexhaustive** definition of Lodgify's conventions for writing JavaScript a
 
 Each convention seeks to achieve one or more of the following goals, ordered by priority.
 
-#### Make life easier
+#### 😌 Make life easier
 
 Make logic easy to read. Improve signal to noise ratio. Reduce mental burden in understanding.
 
-#### Reduce the chance of failure
+#### 🔒 Reduce the chance of failure
 
 Make logic easy to test. Choose the tight way (`===`), not the loose way (`==`).
 
-#### Move faster
+#### 🏃 Move faster
 
 Make logic easy to reuse. Reduce mental burden in writing.
 
@@ -53,7 +53,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 - No JSDoc description for clear functions
 - Use JSDoc tags and description for opaque functions
 
-## Be warned
+## ☝️ Be warned
 
 This is consciously **inexhaustive**.
 
