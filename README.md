@@ -27,7 +27,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 
 ##### Modules
 
-- Use modules to organise application logic
+- [Use modules to organise application logic](modules/use-modules-to-organise-application-logic.md)
 - No default exports
 - No logic in `index.js` files
 - Use `constants.js` file for defining constants
