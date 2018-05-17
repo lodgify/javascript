@@ -30,6 +30,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 - [Use modules to organise application logic](modules/use-modules-to-organise-application-logic.md)
 - [No default exports](modules/no-default-exports.md)
 - [No logic in `index.js` files](modules/no-logic-in-indexjs-files.md)
+- [No imports reaching beyond module API](modules/no-imports-reaching-beyond-module-api.md)
 - Use `constants.js` file for defining constants
 - Use `.spec.js` extension for unit tests
 - Use generic file names
