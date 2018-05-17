@@ -40,7 +40,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 - [No jsx extension](react/no-jsx-extension.md)
 - [Use `component.js` file for defining markup](react/use-componentjs-file-for-defining-markup.md)
 - [Use stateless components by default](react/use-stateless-components-by-default.md)
-- Use generic component names
+- [Use generic component names](react/use-generic-component-names.md)
 - Use `container.js` file for wrapping components
 
 ##### Redux
