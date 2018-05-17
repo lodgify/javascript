@@ -32,7 +32,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 - [No logic in `index.js` files](modules/no-logic-in-indexjs-files.md)
 - [No imports reaching beyond module API](modules/no-imports-reaching-beyond-module-api.md)
 - [Use `constants.js` file for defining constants](modules/use-constantsjs-file-for-defining-constants.md)
-- Use `.spec.js` extension for unit tests
+- [Use `.spec.js` extension for unit test files](modules/use-specjs-extension-for-unit-test-files.md)
 - Use generic file names
 
 ##### React
