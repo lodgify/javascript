@@ -41,7 +41,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 - [Use `component.js` file for defining markup](react/use-componentjs-file-for-defining-markup.md)
 - [Use stateless components by default](react/use-stateless-components-by-default.md)
 - [Use generic component names](react/use-generic-component-names.md)
-- Use `container.js` file for wrapping components
+- [Use `container.js` file for wrapping components](react/use-containerjs-file-for-wrapping-components.md)
 
 ##### Redux
 
