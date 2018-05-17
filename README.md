@@ -38,7 +38,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 ##### React
 
 - [No jsx extension](react/no-jsx-extension.md)
-- Use `component.js` file for defining markup
+- [Use `component.js` file for defining markup](react/use-componentjs-file-for-defining-markup.md)
 - Use stateless components by default
 - Use generic component names
 - Use `container.js` file for wrapping components
