@@ -22,7 +22,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 
 ##### Syntax
 
-- Use Lodgify ESLint config
+- [Use Lodgify ESLint config](https://bigassmessage.com/c1b7a)
 - [Use arrow functions by default](syntax/use-arrow-functions-by-default.md)
 
 ##### Modules
