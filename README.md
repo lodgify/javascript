@@ -23,7 +23,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 ##### Syntax
 
 - Use Lodgify ESLint config
-- Use arrow functions by default
+- [Use arrow functions by default](syntax/use-arrow-functions-by-default.md)
 
 ##### Modules
 
