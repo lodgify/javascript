@@ -45,7 +45,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 
 ##### Redux
 
-- Use ducks for state management logic
+- [Use 'ducks' for state management logic :duck::duck:](redux/use-ducks-for-state-management-logic.md)
 
 ##### Comments
 
