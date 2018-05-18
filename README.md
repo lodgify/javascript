@@ -51,7 +51,7 @@ Make logic easy to reuse. Reduce mental burden in writing.
 
 - [No JSDoc tags or description for boilerplate entities](comments/no-jsdoc-tags-or-description-for-boilerplate-entities.md)
 - [No JSDoc tags or description for obvious entities](comments/no-jsdoc-tags-or-description-for-obvious-entities.md)
-- No JSDoc description for clear functions
+- [No JSDoc description for clear functions](comments/no-jsdoc-description-for-clear-functions.md)
 - Use JSDoc tags and description for opaque functions
 
 ## ☝️ Be warned
